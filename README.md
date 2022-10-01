@@ -7,8 +7,6 @@ Screenshots of the application can be found in the Screenshots folder in the rep
 
 Deployed application: 
 
-Github: https://grunt395.github.io/Module-11-Challenge/
-
 Heroku: https://still-cove-26647.herokuapp.com/
 
 References:
