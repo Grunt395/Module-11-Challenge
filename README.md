@@ -5,7 +5,11 @@ This is a challenge involving the use of Express.js to create a Note Taking appl
 
 Screenshots of the application can be found in the Screenshots folder in the repository.
 
-Deployed application: https://grunt395.github.io/Module-11-Challenge/
+Deployed application: 
+
+Github: https://grunt395.github.io/Module-11-Challenge/
+
+Heroku: https://still-cove-26647.herokuapp.com/
 
 References:
 
